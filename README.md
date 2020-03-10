@@ -37,5 +37,5 @@ server.register({
 
 ## Collaborators
 
-- [@craigbeck](https://github.com/craigbeck) who wrote the original [hapi-raygun]() plugin
+- [@craigbeck](https://github.com/craigbeck) who wrote the original [hapi-raygun](git@github.com:njhoran/hapi-raygun-client.git) plugin
 - [@njhoran](https://github.com/njhoran) who took the original and rewrote it's plugin interface to work with hapi v17 +
